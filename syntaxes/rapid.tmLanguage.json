@@ -35,7 +35,7 @@
       "patterns": [
         {
           "name": "keyword.control.rapid",
-          "match": "\\b(IF|THEN|ELSE|ELSEIF|ENDIF|FOR|FROM|TO|DO|ENDFOR|WHILE|DO|ENDWHILE|RETURN|CONNECT|EXIT|GOTO|RAISE|RETRY|TRYNEXT|TEST|CASE|ENDTEST)\\b"
+          "match": "\\b(IF|THEN|ELSE|ELSEIF|ENDIF|FOR|FROM|TO|DO|ENDFOR|WHILE|DO|ENDWHILE|RETURN|CONNECT|EXIT|GOTO|RAISE|RETRY|TRYNEXT|TEST|CASE|DEFAULT|ENDTEST)\\b"
         },
         {
           "name": "keyword.storage.modifier.rapid",

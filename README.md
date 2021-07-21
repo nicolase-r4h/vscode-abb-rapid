@@ -4,10 +4,17 @@ Language support for the ABB RAPID robot programming language.
 
 ![screenshot](https://user-images.githubusercontent.com/31570/47122326-0d188800-d2c2-11e8-88ea-7996bc306b2d.png)
 
-* [GitHub Repository](https://github.com/verbotics/vscode-abb-rapid)
-* [Issues](https://github.com/verbotics/vscode-abb-rapid/issues)
+* [GitHub Repository](https://github.com/nicolase-r4h/vscode-abb-rapid)
+* [Issues](https://github.com/nicolase-r4h/vscode-abb-rapid/issues)
+
+* [Old GitHub Repository](https://github.com/verbotics/vscode-abb-rapid)
+* [Old Issues](https://github.com/verbotics/vscode-abb-rapid/issues)
 
 ## Changelog
+
+### 0.1.2
+
+* Added support for test/case arguments
 
 ### 0.1.1
 

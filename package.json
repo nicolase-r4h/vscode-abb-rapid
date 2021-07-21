@@ -2,11 +2,11 @@
     "name": "abb-rapid",
     "displayName": "ABB RAPID",
     "description": "Language support for the ABB RAPID robot programming language",
-    "version": "0.1.1",
-    "publisher": "verbotics",
+    "version": "0.1.2",
+    "publisher": "nicolase-r4h",
     "repository": {
         "type": "git",
-        "url": "https://github.com/verbotics/vscode-abb-rapid.git"
+        "url": "https://github.com/nicolase-r4h/vscode-abb-rapid.git"
     },
     "engines": {
         "vscode": "^1.28.0"
