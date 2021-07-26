@@ -18,7 +18,7 @@
         "languages": [{
             "id": "rapid",
             "aliases": ["RAPID", "rapid"],
-            "extensions": [".mod",".prg",".sys"],
+            "extensions": [".mod",".prg",".sys",".modx",".sysx"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
